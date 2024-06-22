@@ -57,4 +57,4 @@ We are dedicated to ensuring the privacy and security of our users. By using our
 
 ----------
 
-This privacy policy was last updated on [Date]. We reserve the right to make changes to this policy and will notify users of any significant updates.
+This privacy policy was last updated on 22.06.2024.
